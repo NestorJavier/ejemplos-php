@@ -18,6 +18,10 @@
             <td>2-may</td>
             <td><a href="./tablas.php">Tablas de multiplicar</a></td>
         </tr>
+        <tr>
+            <td>3-may</td>
+            <td><a href="./login-simple/index.php">login simple</a></td>
+        </tr>
     </table>
 </body>
 </html>
