@@ -22,6 +22,10 @@
             <td>3-may</td>
             <td><a href="./login-simple/index.php">login simple</a></td>
         </tr>
+        <tr>
+            <td>8-may</td>
+            <td><a href="./friends/index.php">friends</a></td>
+        </tr>
     </table>
 </body>
 </html>
